@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/zolexcoin_bg.qm</file>
+        <file alias="ca">locale/zolexcoin_ca.qm</file>
+        <file alias="cs">locale/zolexcoin_cs.qm</file>
+        <file alias="da">locale/zolexcoin_da.qm</file>
+        <file alias="de">locale/zolexcoin_de.qm</file>
+        <file alias="en">locale/zolexcoin_en.qm</file>
+        <file alias="en_US">locale/zolexcoin_en_US.qm</file>
+        <file alias="es">locale/zolexcoin_es.qm</file>
+        <file alias="fi">locale/zolexcoin_fi.qm</file>
+        <file alias="fr_FR">locale/zolexcoin_fr_FR.qm</file>
+        <file alias="hr">locale/zolexcoin_hr.qm</file>
+        <file alias="it">locale/zolexcoin_it.qm</file>
+        <file alias="ja">locale/zolexcoin_ja.qm</file>
+        <file alias="ko_KR">locale/zolexcoin_ko_KR.qm</file>
+        <file alias="nl">locale/zolexcoin_nl.qm</file>
+        <file alias="pl">locale/zolexcoin_pl.qm</file>
+        <file alias="pt">locale/zolexcoin_pt.qm</file>
+        <file alias="pt_BR">locale/zolexcoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/zolexcoin_ro_RO.qm</file>
+        <file alias="ru">locale/zolexcoin_ru.qm</file>
+        <file alias="sk">locale/zolexcoin_sk.qm</file>
+        <file alias="sv">locale/zolexcoin_sv.qm</file>
+        <file alias="tr">locale/zolexcoin_tr.qm</file>
+        <file alias="uk">locale/zolexcoin_uk.qm</file>
+        <file alias="zh_CN">locale/zolexcoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/zolexcoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

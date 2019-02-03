@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ZolexCoin
+Comment=ZolexCoin P2P Cryptocurrency
+Comment[fr]=ZolexCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ZolexCoin, eşten eşe kriptografik sanal para birimi
+Exec=zolexcoin-qt %u
+Terminal=false
+Type=Application
+Icon=zolexcoin128
+MimeType=x-scheme-handler/zolexcoin;
+Categories=Office;Finance;
